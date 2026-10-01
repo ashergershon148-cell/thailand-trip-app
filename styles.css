@@ -414,8 +414,7 @@ a { color: var(--teal-700); }
   gap: 2px; min-height: 52px; padding: 4px 0; font-size: 0.58rem;
   color: var(--muted); font-weight: 600; border-radius: 10px;
 }
-.tab span:first-child { font-size: 1.15rem; line-height: 1;
-}
+.tab span:first-child { font-size: 1.15rem; line-height: 1; }
 .tab.active { color: var(--teal-700); background: rgba(26,138,138,0.1); }
 
 @media (min-width: 431px) {
