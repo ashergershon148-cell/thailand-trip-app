@@ -1,1 +1,1 @@
-run $(date -u +%Y%m%dT%H%M%SZ)
+trigger $(date -u +%Y%m%dT%H%M%SZ)
